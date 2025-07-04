@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Treding.TOC
 <!DOCTYPE html>
 <html lang="en">
@@ -342,3 +343,6 @@
     </script>
 </body>
 </html>-->
+=======
+# Tred.VLU
+>>>>>>> d75cec5 (Fix ALLOWED_HOSTS)
